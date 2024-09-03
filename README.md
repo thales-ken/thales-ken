@@ -14,6 +14,7 @@ Here's a little about me:
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/selenium.png" alt="Selenium" height="50" /></a>
 ### Backend:
 <a href="https://nodejs.org/pt" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/nodeJS.png" alt="NodeJS" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/py.png" alt="NodeJS" height="50" /></a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/c-sharp.png" alt="CSharp" height="50" /></a>
 ### Database: 
 MSSQL Server, PLSQL, Postgres, Firebase, Firestore, MongoDB;
