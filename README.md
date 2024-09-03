@@ -22,7 +22,7 @@ Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma
 ## 🌱 What I'm Currently Working On
 Sistema de Reserva de Espaços: A space reservation system using React and Firebase. This project is helping me dive deeper into building React.js applications!
 ## 🎯 My Goals
-Short-term: Mastering TypeScript to enhance my React.js projects and learning more about Next.js for server-side rendering.
+Short-term: Mastering TypeScript to enhance my React.js projects and learning more about Next.js for server-side rendering.<br/>
 Long-term: Contributing to large-scale open-source projects and becoming a full-stack or front-end developer.
 ## 📫 How to Reach Me
 Email: thales_ken@hotmail.com
