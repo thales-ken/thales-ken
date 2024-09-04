@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Thales Ken!
-I'm a full stack developer who loves to create solutions and web applications, especially with React.js. My journey in coding started in 2016 where I started working with C# developing ETL and RPA automations and desktop apps. From there on my work involved creating new solutions in C#, transitioning projects to Python and creating SPAs with React.js!  
+I'm a full stack developer who loves to create solutions and web applications, especially with React.js. My journey in coding started in 2016 when I started working with C# developing ETL and RPA automations and desktop apps. From there on my work involved creating new solutions in C#, transitioning projects to Python and creating SPAs with React.js!  
 
 Here's a little about me:
 
