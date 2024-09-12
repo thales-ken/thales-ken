@@ -11,6 +11,7 @@ Here's a little about me:
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/css3.svg" alt="CSS3" height="50" /></a>
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/html5.svg" alt="HTML5" height="50" /></a>
 <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/bootstrap.png" alt="Bootstrap" height="50" /></a>
+<a href="https://tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/tailwind.png" alt="Tailwind" height="50" /></a>
 <a href="https://www.selenium.dev/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/selenium.png" alt="Selenium" height="50" /></a>
 ### Backend:
 <a href="https://nodejs.org/pt" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/nodeJS.png" alt="NodeJS" height="50" /></a>
