@@ -22,7 +22,7 @@ MSSQL Server, PLSQL, Postgres, Firebase, Firestore, MongoDB;
 ### Tools: 
 Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma, Postman, Azure DevOps;
 ## 🌱 What I'm Currently Working On
-Sistema de Reserva de Espaços: A space reservation system using React and Firebase. This project is helping me dive deeper into building React.js applications!
+Gym-planner: This project is a personal challenge designed to help me learn new technologies like TypeScript, Next.js and Tailwind while also meeting my own needs!
 ## 🎯 My Goals
 Short-term: Mastering TypeScript to enhance my React.js projects and learning more about Next.js for server-side rendering.<br/>
 Long-term: Contributing to large-scale open-source projects and becoming a full-stack or front-end developer.
