@@ -18,9 +18,9 @@ Here's a little about me:
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/py.png" alt="NodeJS" height="50" /></a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp" target="_blank"><img style="margin: 10px" src="https://github.com/thales-ken/thales-ken/blob/main/icons/c-sharp.png" alt="CSharp" height="50" /></a>
 ### Database: 
-MSSQL Server, PLSQL, Postgres, Firebase, Firestore, MongoDB;
+MSSQL Server, PLSQL, Postgres, Supabase, Firebase, Firestore, MongoDB;
 ### Tools: 
-Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma, Postman, Azure DevOps;
+Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma, Postman, Azure DevOps, Docker;
 ## 🌱 What I'm Currently Working On
 Gym-planner: This project is a personal challenge designed to help me learn new technologies like TypeScript, Next.js and Tailwind while also meeting my own needs!
 ## 🎯 My Goals
