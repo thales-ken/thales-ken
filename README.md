@@ -24,7 +24,7 @@ Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma
 ## 🌱 What I'm Currently Working On
 Gym-planner: This project is a personal challenge designed to help me learn new technologies like TypeScript, Next.js and Tailwind while also meeting my own needs!
 ## 🎯 My Goals
-Short-term: Mastering TypeScript to enhance my React.js projects and learning more about Next.js for server-side rendering.<br/>
+Short-term: Learning AWS.<br/>
 Long-term: Contributing to large-scale open-source projects and becoming a full-stack or front-end developer.
 ## 📫 How to Reach Me
 Email: thales_ken@hotmail.com <br/>
