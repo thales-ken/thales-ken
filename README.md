@@ -28,6 +28,6 @@ Short-term: Learning AWS.<br/>
 Long-term: Contributing to large-scale open-source projects and becoming a full-stack or front-end developer.
 ## 📫 How to Reach Me
 Email: thales_ken@hotmail.com <br/>
-LinkedIn: https://www.linkedin.com/in/thales-ken/
+LinkedIn: https://www.linkedin.com/in/thalesken/
 ## 💬 Fun Fact
 I’m always on the lookout for new tech trends and enjoy experimenting with different tools and libraries. When I’m not coding, you can find me exploring the latest news in smart gadgets and 3D printing. I'm also a concept artist in the making! Check my work on Artstation: https://www.artstation.com/thalesken
