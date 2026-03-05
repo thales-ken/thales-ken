@@ -1,5 +1,5 @@
 # 👋 Hi there! I'm Thales Ken!
-I'm a full stack developer who loves to create solutions and web applications, especially with React.js. My journey in professional coding began in 2016 when I started working with C# developing ETL and RPA automations, as well as desktop applications. From there on my work involved creating new solutions in C#, transitioning projects to Python and creating SPAs with React.js!  
+I'm a full stack developer who loves to create solutions and web applications, especially with React.js. My journey in professional coding began in 2016 when I started working with C# developing ETL and RPA automations, as well as desktop applications. From there on my work involved creating new solutions in C#, transitioning projects to Python and creating web solutions with React.js!  
 
 Here's a little about me:
 
@@ -21,11 +21,6 @@ Here's a little about me:
 MSSQL Server, PLSQL, Postgres, Supabase, Firebase, Firestore, MongoDB;
 ### Tools: 
 Git, GitHub, Visual Studio Code, Visual Studio, PyCharm, Jupyter Notebook, Figma, Postman, Azure DevOps, Docker;
-## 🌱 What I'm Currently Working On
-Gym-planner: This project is a personal challenge designed to help me learn new technologies like TypeScript, Next.js and Tailwind while also meeting my own needs!
-## 🎯 My Goals
-Short-term: Learning AWS.<br/>
-Long-term: Contributing to large-scale open-source projects and becoming a full-stack or front-end developer.
 ## 📫 How to Reach Me
 Email: thales_ken@hotmail.com <br/>
 LinkedIn: https://www.linkedin.com/in/thalesken/
